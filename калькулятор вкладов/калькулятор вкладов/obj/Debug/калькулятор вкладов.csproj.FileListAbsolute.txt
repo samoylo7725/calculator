@@ -1,0 +1,20 @@
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\bin\Debug\калькулятор вкладов.exe.config
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\bin\Debug\калькулятор вкладов.exe
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\bin\Debug\калькулятор вкладов.pdb
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор_вкладов.Form1.resources
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор_вкладов.Properties.Resources.resources
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.exe
+C:\Users\HOME\source\repos\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.pdb
+D:\калькулятор вкладов\калькулятор вкладов\bin\Debug\калькулятор вкладов.exe.config
+D:\калькулятор вкладов\калькулятор вкладов\bin\Debug\калькулятор вкладов.exe
+D:\калькулятор вкладов\калькулятор вкладов\bin\Debug\калькулятор вкладов.pdb
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.csprojAssemblyReference.cache
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор_вкладов.Form1.resources
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор_вкладов.Properties.Resources.resources
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.csproj.GenerateResource.cache
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.csproj.CoreCompileInputs.cache
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.exe
+D:\калькулятор вкладов\калькулятор вкладов\obj\Debug\калькулятор вкладов.pdb
